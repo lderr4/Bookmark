@@ -1,0 +1,38 @@
+p {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    padding-top: 25px;
+    color: black;
+}
+
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+   margin-top: -50px;
+   margin-left: -100px;
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+#message {
+  text-align: center;
+  font-size: large;
+  color: red;
+}
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
